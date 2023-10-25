@@ -3,5 +3,4 @@ files/Proxies.json
 files/UserAgents.json
 files/FacebookAccounts.json
 .env
-test.py
-test2.py
+Tests
