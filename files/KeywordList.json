@@ -1,0 +1,38 @@
+[
+  {
+    "to_find": "contest",
+    "to_put": "contest"
+  },
+  {
+    "to_find": "concurs",
+    "to_put": "contest"
+  },
+  {
+    "to_find": "codegolf",
+    "to_put": "contest"
+  },
+  {
+    "to_find": "hackathon",
+    "to_put": "hackathon"
+  },
+  {
+    "to_find": "internship",
+    "to_put": "internship"
+  },
+  {
+    "to_find": "stagiu de practica",
+    "to_put": "internship"
+  },
+  {
+    "to_find": "summercamp",
+    "to_put": "summercamp"
+  },
+  {
+    "to_find": "scoala de vara",
+    "to_put": "summercamp"
+  },
+  {
+    "to_find": "workshop",
+    "to_put": "workshop"
+  }
+]

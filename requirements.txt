@@ -1,0 +1,10 @@
+fastapi~=0.103.0
+Scrapy~=2.10.1
+w3lib~=2.1.2
+itemadapter~=0.8.0
+requests~=2.31.0
+selenium~=4.12.0
+supabase~=1.0.4
+python-dotenv~=1.0.0
+beautifulsoup4~=4.12.2
+Unidecode~=1.3.6
